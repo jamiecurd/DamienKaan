@@ -241,16 +241,16 @@ li.nav a:hover {
   }
 }
 
-/*
-.footer {
+
+.footerother {
+  text-align: center;
   height: 150px;
   width: 100%;
   background-color: #fff;
-  text-align: center;
-  position: fixed;
+  position: relative;
   bottom: 0;
 }
-*/
+
 
 
 li.icon {
@@ -303,7 +303,7 @@ li.icon a {
   display:block;
   float:none;
   margin-right:auto;
-  margin-left:auto
+  margin-left:auto;
 }
 
 
