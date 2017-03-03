@@ -300,6 +300,7 @@ li.icon a {
 }
 
 .centered {
+  text-align: center;
   display:block;
   float:none;
   margin-right:auto;
