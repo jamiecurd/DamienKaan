@@ -22,7 +22,7 @@ a {
 
 @font-face {
     font-family: 'black';
-    src: url('../font/montserrat/black.WOFF') format('woff'), url('../font/montserrat/black.ttf') format('truetype');
+    src: url('../font/montserrat/black.woff') format('woff'), url('../font/montserrat/black.ttf') format('truetype');
     font-style: normal;
     font-weight: 400;
 }
